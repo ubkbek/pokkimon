@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,OAAO,AAAA,CACH,UAAU,CAAE,KAAK,CACpB",
+    "sources": [
+        "../scss/all-blocks/style.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
