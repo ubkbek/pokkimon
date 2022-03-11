@@ -2,6 +2,8 @@
 
 .shadow-list{
         box-shadow: 0 14px 18px 5px #333, 0 6px 20px 0 #333;
+        transition: all 0.4s;
+
 }
 
 .shadow-list:hover{

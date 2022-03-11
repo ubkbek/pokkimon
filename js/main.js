@@ -32,7 +32,7 @@ function renderPokemons(array, place){
 
         // created <h4> element
         var newH4 = document.createElement("H4");
-        newH4.setAttribute("class", "h6");
+        newH4.setAttribute("class", "h5");
         newH4.textContent = item.type;
 
 
